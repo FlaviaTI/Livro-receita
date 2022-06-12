@@ -7,4 +7,5 @@ Olá bem vindo ao meu livro de receitas.
 - - Macarronada
 - - Pudim de Leite
 - - Empadão da Vovó
+- - Pavê de amendoin
 
